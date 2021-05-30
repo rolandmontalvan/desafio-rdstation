@@ -43,5 +43,7 @@ npm run dev
 
 * View launches
 * View launches detail
+* View History
+* View Historical Events detail
 * View rockets
 * View rockets detail
